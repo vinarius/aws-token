@@ -1,0 +1,24 @@
+{
+  "name": "aws-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aws-token.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Internal-Tech-Services/aws-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Internal-Tech-Services/aws-token/issues"
+  },
+  "homepage": "https://github.com/Internal-Tech-Services/aws-token#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1006.0",
+    "moment-timezone": "^0.5.33"
+  }
+}
