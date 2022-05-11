@@ -1,6 +1,6 @@
 {
   "name": "@internal-tech-solutions/aws-token",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/aws-token.js",
   "types": "dist/aws-token.d.ts",
