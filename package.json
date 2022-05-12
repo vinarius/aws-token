@@ -4,6 +4,7 @@
   "description": "",
   "main": "dist/aws-token.js",
   "types": "dist/aws-token.d.ts",
+  "bin": "dist/aws-token.js",
   "dependencies": {
     "@aws-sdk/client-iam": "^3.87.0",
     "@aws-sdk/client-sts": "^3.87.0",
