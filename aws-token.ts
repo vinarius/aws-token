@@ -12,7 +12,9 @@ function spawn(command: string) {
   });
 }
 
-const options: STSClientConfig = {};
+const options: STSClientConfig = {
+  region: 'us-east-2'
+};
 
 const [, , ...args] = process.argv;
 const profile = args[0];
